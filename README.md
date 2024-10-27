@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kurse96432
 - 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning HTML, CSS, Javascript
-- 📫 How to reach me [My Discord](https://discord.gg/tHwQAD9ZUB)
+- 📫 How to reach me [My Discord](https://discord.gg/hkcnv4sCCY)
 - 😄 Pronouns: he/him 
 - ⚡ Fun fact: idk
 
